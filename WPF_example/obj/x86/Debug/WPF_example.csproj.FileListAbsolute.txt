@@ -1,0 +1,31 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPF_example\WPF_example\bin\Debug\WPF_example.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPF_example\WPF_example\bin\Debug\WPF_example.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPF_example\WPF_example\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPF_example\WPF_example\obj\x86\Debug\MainWindow.baml
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPF_example\WPF_example\obj\x86\Debug\MainWindow.g.cs
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPF_example\WPF_example\obj\x86\Debug\App.g.cs
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPF_example\WPF_example\obj\x86\Debug\WPF_example_MarkupCompile.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPF_example\WPF_example\obj\x86\Debug\WPF_example.g.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPF_example\WPF_example\obj\x86\Debug\WPF_example.Properties.Resources.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPF_example\WPF_example\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPF_example\WPF_example\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPF_example\WPF_example\obj\x86\Debug\WPF_example.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPF_example\WPF_example\obj\x86\Debug\WPF_example.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\WPF_example\WPF_example\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\WPF_example\WPF_example\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\Гость\Documents\Visual Studio 2010\Projects\WPF_example\WPF_example\obj\x86\Debug\WPF_example.exe
+C:\Users\Гость\Documents\Visual Studio 2010\Projects\WPF_example\WPF_example\obj\x86\Debug\WPF_example.pdb
+C:\Users\Гость\Documents\Visual Studio 2010\Projects\WPF_example\WPF_example\bin\Debug\WPF_example.exe
+C:\Users\Гость\Documents\Visual Studio 2010\Projects\WPF_example\WPF_example\bin\Debug\WPF_example.pdb
+C:\Users\Гость\Documents\Visual Studio 2010\Projects\WPF_example\WPF_example\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\Гость\Documents\Visual Studio 2010\Projects\WPF_example\WPF_example\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Гость\Documents\Visual Studio 2010\Projects\WPF_example\WPF_example\obj\x86\Debug\MainWindow.baml
+C:\Users\Гость\Documents\Visual Studio 2010\Projects\WPF_example\WPF_example\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Гость\Documents\Visual Studio 2010\Projects\WPF_example\WPF_example\obj\x86\Debug\App.g.cs
+C:\Users\Гость\Documents\Visual Studio 2010\Projects\WPF_example\WPF_example\obj\x86\Debug\WPF_example_MarkupCompile.cache
+C:\Users\Гость\Documents\Visual Studio 2010\Projects\WPF_example\WPF_example\obj\x86\Debug\WPF_example.g.resources
+C:\Users\Гость\Documents\Visual Studio 2010\Projects\WPF_example\WPF_example\obj\x86\Debug\WPF_example.Properties.Resources.resources
+C:\Users\Гость\Documents\Visual Studio 2010\Projects\WPF_example\WPF_example\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Гость\Documents\Visual Studio 2010\Projects\WPF_example\WPF_example\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\WPF_example\WPF_example\obj\x86\Debug\WPF_example.exe
+G:\WPF_example\WPF_example\obj\x86\Debug\WPF_example.pdb
