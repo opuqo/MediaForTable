@@ -1,0 +1,14 @@
+C:\VS\MediaForTable\WPF_example\obj\x86\Debug\WPF_example.exe
+C:\VS\MediaForTable\WPF_example\obj\x86\Debug\WPF_example.pdb
+C:\VS\MediaForTable\WPF_example\bin\Debug\WPF_example.exe
+C:\VS\MediaForTable\WPF_example\bin\Debug\WPF_example.pdb
+C:\VS\MediaForTable\WPF_example\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\VS\MediaForTable\WPF_example\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\VS\MediaForTable\WPF_example\obj\x86\Debug\MainWindow.baml
+C:\VS\MediaForTable\WPF_example\obj\x86\Debug\MainWindow.g.cs
+C:\VS\MediaForTable\WPF_example\obj\x86\Debug\App.g.cs
+C:\VS\MediaForTable\WPF_example\obj\x86\Debug\WPF_example_MarkupCompile.cache
+C:\VS\MediaForTable\WPF_example\obj\x86\Debug\WPF_example.g.resources
+C:\VS\MediaForTable\WPF_example\obj\x86\Debug\WPF_example.Properties.Resources.resources
+C:\VS\MediaForTable\WPF_example\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\VS\MediaForTable\WPF_example\obj\x86\Debug\GenerateResource.write.1.tlog

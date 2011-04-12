@@ -4,7 +4,7 @@
         Title="MainWindow" Height="350" Width="525" Name="window1" WindowState="Maximized" WindowStyle="None" WindowStartupLocation="CenterScreen">
     <Grid Name="grid1" MouseLeftButtonUp="grid1_MouseLeftButtonUp" Background="Black">
         
-        <ListView Height="87" HorizontalAlignment="Left" Margin="23,28,0,0" Name="listView1" VerticalAlignment="Top" Width="158" MouseDoubleClick="listView1_MouseDoubleClick" />
+        <ListView Height="46" HorizontalAlignment="Left" Margin="12,12,0,0" Name="listView1" VerticalAlignment="Top" Width="88" MouseDoubleClick="listView1_MouseDoubleClick" />
         <StackPanel Orientation="Vertical" Name="wrap2" Background="Transparent" VerticalAlignment="Bottom" Height="138">
             <Grid Name="stackpanelUp2" Height="20" Background="Black">
                 <Button Name="but1" Width="50" HorizontalAlignment="Left" Click="but1_Click"></Button>
@@ -13,8 +13,9 @@
                 <Button Name="but3" Width="50" HorizontalAlignment="Right" Click="but3_Click"></Button>
             </Grid>
             <ScrollViewer VerticalScrollBarVisibility="Hidden" HorizontalScrollBarVisibility="Hidden" Name="scroll2" Height="118" CanContentScroll="True">
-                <StackPanel Orientation="Horizontal" Name="stackpanel2" Height="118" CanVerticallyScroll="False" CanHorizontallyScroll="True" MouseRightButtonDown="stackpanel2_MouseRightButtonDown" MouseMove="stackpanel2_MouseMove" Background="#FF767676"></StackPanel>
+                <StackPanel Orientation="Horizontal" Name="stackpanel2" Height="118" CanVerticallyScroll="False" CanHorizontallyScroll="True" MouseLeftButtonDown="stackpanel2MouseLeftButtonDown" MouseMove="stackpanel2_MouseMove" Background="#FF767676"></StackPanel>
             </ScrollViewer>
         </StackPanel>
+        <StackPanel Height="112" HorizontalAlignment="Left"  Name="veiw" VerticalAlignment="Top" Width="110" />
     </Grid>
 </Window>
