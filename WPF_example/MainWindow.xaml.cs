@@ -220,7 +220,7 @@ namespace WPF_example
                              // превьюшка
                              if (i.ToString().Substring(i.ToString().Length - 4, 4) == ".avi" || i.ToString().Substring(i.ToString().Length - 4, 4) == ".flv")
                              {
-                                 Uri uri = new Uri(@"G:/play.png");
+                                 Uri uri = new Uri(@"C:/VS/MediaForTable/video.png");
                                  BitmapImage bitmap = new BitmapImage(uri);
                                  var img = new Image();
                                  
